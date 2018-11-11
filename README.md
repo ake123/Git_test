@@ -1,4 +1,3 @@
-# Git_test
+# Machine Learning projects
 
-This is test file
-Testing
+
